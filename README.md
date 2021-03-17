@@ -6,7 +6,7 @@ Submitted by: **Jingsheng Zhang**
 
 Time spent: **1.5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://glitch.com/edit/#!/light-and-sound-memor?path=README.md%3A53%3A18)
 
 ## Required Functionality
 
