@@ -59,7 +59,7 @@ Also, all the prework project is using the default stuff, how can we import the 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
-I will spend the time on the optional features. I already got in mind how to companish some of them, but I got 8 pages paper to do today and I need to start heading back to China tomorrow. So I might not have time to get the optional features down right now, but I will try if I have time after the busy time.
+I will spend the time on the optional features. I already got in mind how to write some of them, but I got 8 pages paper to do today and I need to start heading back to China tomorrow. So I might not have time to get the optional features down right now, but I will try if I have time after the busy time.
 
 
 
