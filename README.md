@@ -44,16 +44,17 @@ Here's a walkthrough of implemented user stories:
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+Nope.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+I think the walk through process is perfect!
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+There is a problem I have, and I do not know the answer. The question is that after I finished my work on glitch, I tested it, it worked well, however, when I send the link to my frined in China, although she can open it, she couldn't keep the game going, and the game finished after she clicked the first blue button. It won't be the problem of the internet, and she used safari. 
+Also, all the prework project is using the default stuff, how can we import the music sound from our favorite music? 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+I will spend the time on the optional features. I already got in mind how to companish some of them, but I got 8 pages paper to do today and I need to start heading back to China tomorrow. So I might not have time to get the optional features down right now, but I will try if I have time after the busy time.
 
 
 
